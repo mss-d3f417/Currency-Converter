@@ -3,7 +3,7 @@
 **A Simple C++ Code For Currency Convert**
 🥷 This script uses libraries :
 
- - <iostream>
+ - iostream
  - <iomanip>
  - <stdlib.h>
  - <string>
