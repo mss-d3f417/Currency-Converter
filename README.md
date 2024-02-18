@@ -4,12 +4,12 @@
 🥷 This script uses libraries :
 
  - iostream
- - <iomanip>
- - <stdlib.h>
- - <string>
- - <conio.h>
- - <time.h>
- - <string.h>
+ - iomanip
+ - stdlib.h
+ - string
+ - conio.h
+ - time.h
+ - string.h
 
 🥷 Features
 
